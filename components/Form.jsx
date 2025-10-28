@@ -17,7 +17,7 @@ This platform gives every team member the opportunity to share concerns, challen
       >
         <label>
           <span className='font-satoshi font-semibold text-base text-gray-700'>
-            Your  Prompt
+            Your  Prompt y
           </span>
 
           <textarea
