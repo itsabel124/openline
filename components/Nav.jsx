@@ -37,7 +37,7 @@ const Nav = () => {
         {session?.user ? (
           <div className='flex gap-3 md:gap-5'>
             <Link href='/create-prompt' className='black_btn'>
-              share story
+              share story boy
             </Link>
 
             <button type='button' onClick={signOut} className='outline_btn'>
